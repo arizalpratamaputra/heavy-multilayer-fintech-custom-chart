@@ -11,7 +11,7 @@ A clean and self-contained demonstration of a **custom high-performance candlest
 - ✔️ Lightweight, readable, and production-style code  
 - ✔️ Perfect for demonstrating low-level chart-engineering skills
 
-This version is intentionally simplified for **professional code review**, derived from the proprietary chart engine built for **VICEFX**.
+This version is intentionally simplified for **professional code review**, derived from the proprietary chart engine built for fintech company.
 
 ---
 
