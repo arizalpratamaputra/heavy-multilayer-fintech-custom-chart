@@ -65,7 +65,7 @@ Demonstrates hybrid rendering:
 ---
 
 ### **5. Clean & Review-Friendly Architecture**
-Compared to the full VICEFX chart engine, this showcase excludes:
+Compared to the full chart engine, this showcase excludes:
 - Trading UI  
 - Backend polling  
 - Context providers  
