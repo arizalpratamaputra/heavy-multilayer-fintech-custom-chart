@@ -1,4 +1,4 @@
-# VICEFX Custom Chart Engine — Showcase Edition
+Custom Chart Engine — Showcase Edition
 
 A clean and self-contained demonstration of a **custom high-performance candlestick chart engine** built on top of `lightweight-charts` with fully manual enhancements:
 
